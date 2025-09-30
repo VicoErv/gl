@@ -1,0 +1,10 @@
+[package]
+name = "gllit"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gl = "0.14.0"
+image = "0.25.8"
+nalgebra-glm = "0.20.0"
+sdl2 = "0.38.0"
